@@ -1,0 +1,17 @@
+{
+  "name": "testhapiprojektfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.2",
+    "nodemon": "^3.1.9"
+  }
+}
